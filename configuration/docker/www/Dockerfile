@@ -1,6 +1,6 @@
 # Build mutillidae/www:latest
 
-FROM php:8.0.6-apache
+FROM php:8.0.12-apache
 
 # Update software packages
 RUN apt-get update
